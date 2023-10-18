@@ -6,3 +6,12 @@
     "citation": "Constenla Umana, Adolfo (2007): La lengua de Térraba. San José: Editorial de la Universidad de Costa Rica.
     "conceptlist": "Pache-2023-Chibchan"
 }
+
+{
+    "id": "chevrier2017",
+    "title": "CLDF dataset derived from Chevrier's\"Analyse de la phonologie du bribri (chibcha) dans une perspective typologique: nasalité et géminée modulée\" from 2017",
+    "license": "CC-BY-4.0",
+    "url": "https://calc.hypotheses.org/2414",
+    "citation": "Chevrier, Natacha (2017): Analyse de la phonologie du bribri (chibcha) dans une perspective typologique: nasalité et géminée modulée. Ph.D. dissertation, Université Lumière Lyon 2.
+    "conceptlist": "Pache-2023-Chibchan"
+}
