@@ -1,8 +1,8 @@
 {
-    "id": "constenla2007",
-    "title": "CLDF dataset derived from Constenla Umana's\"La lengua de Térraba\" from 2007",
+    "id": "pache2023",
+    "title": "CLDF dataset derived from Pache's \"Pech and the basic internal classification of Chibchan\" from 2023",
     "license": "CC-BY-4.0",
-    "url": "https://calc.hypotheses.org/2414",
-    "citation": "Constenla Umana, Adolfo (2007): La lengua de Térraba. San José: Editorial de la Universidad de Costa Rica.
+    "url": "https://doi.org/10.1086/722240",
+    "citation": "Pache, Matthias (2023): Pech and the basic internal classification of Chibchan. International Journal of American Linguistics 89 (1): 81-103.
     "conceptlist": "Pache-2023-Chibchan"
 }
