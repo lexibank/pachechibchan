@@ -1,6 +1,26 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Sources
-Pech,Pech,,,,,,,,
-Atanques,Atanques,,,,,,,,
-Damana,Damana,,,,,,,,
-Ika,Ika,,,,,,,,
-Kogi,Kogi,,,,,,,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source
+Atanques,Atanques,kank1244,Kankuamo,,South America,10.750207,-73.357544,Chibchan,Celedon1892
+Bari,Barí,bari1297,Barí,mot,South America,9.08497,-72.9353,Chibchan,Huber1992
+Boruca,Boruca,boru1252,Boruca,brn,North America,8.88093,-83.2124,Chibchan,QuesadaPacheco1999
+Bribri,Bribri,brib1243,Bribri,bzd,North America,9.39794,-83.0539,Chibchan,Chevrier2017
+Buglere,Bocotá,bugl1243,Buglere,sab,North America,8.57695,-81.25648,Chibchan,Quesada2012
+Cabecar,Cabécar,cabe1245,Cabécar,cjp,North America,9.67031,-83.4102,Chibchan,MargeryPena1989
+Changuena,Chánguena,chan1324,Changuena,,North America,9.359643,-82.568207,Chibchan,Pinart1890
+Chimila,Chimila,chim1309,Chimila,cbg,South America,10.1902,-74.2559,Chibchan,Huber1992
+Chumulu,Chumulu,,,,,,,,Pinart1890
+Damana,Damana,mala1522,Malayo,mbp,South America,10.9286,-73.4056,Chibchan,Huber1992
+Dorasque,Dorace,dora1242,Dorasque,,North America,8.567442,-82.375717,Chibchan,Constenla1985
+Duit,Duit,duit1239,Duit,,South America,5.786798,-73.021374,Chibchan,Uricoechea1871
+Gualaca,Gualaca,,,,,,,,Pinart1890
+Guatuso,Guatuso,male1297,Maléku Jaíka,gut,North America,10.7485,-84.7318,Chibchan,Constenla1975
+Guaymi,Guaymí,ngab1239,Ngäbere,gym,North America,8.8251,-82.3911,Chibchan,QuesadaPacheco2008
+Huetar,Huetar,huet1235,Huetar,,North America,10.159775,-84.255066,Chibchan,QuesadaPacheco1996
+Ika,Ika,arhu1242,Arhuaco,arh,South America,10.7018,-73.6363,Chibchan,Huber1992
+Kogi,Kogi,cogu1240,Cogui,kog,South America,10.9485,-73.8043,Chibchan,Huber1992
+Kuna,Kuna,kuna1280,Kuna,,,,,Chibchan,Holmer1952
+Muisca,Muisca,chib1270,Chibcha,chb,South America,6.24999,-74.1666,Chibchan,GonzalezDePerez1992
+Nutabe,Nutabe,anti1242,Antioquian,,South America,7.199341,-75.342236,Chibchan,Rivet1943
+Pech,Pech,pech1241,Pech,pay,North America,15.8033,-85.558,Chibchan,Holt1999
+Rama,Rama,rama1270,Rama,rma,North America,11.5007,-83.8571,Chibchan,CIDCA1987
+Terraba,Térraba,teri1250,Teribe,tfr,North America,9.067,-82.9631,Chibchan,Constenla2007
+Tunebo,Tunebo,tune1260,Tunebo,,,,,Chibchan,Headland1997

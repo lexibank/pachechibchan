@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist CLDF dataset derived from Aaley and Bodt's "New Kusunda data: A list of 250 concepts" from 2020
+# Wordlist CLDF dataset derived from Pache's "Pech and the basic internal classification of Chibchan" from 2023
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
@@ -8,14 +8,13 @@
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Uday Raj Aaley and Timotheus A. Bodt (2020): New Kusunda data: A list of 250 concepts. Computer-Assisted Language Comparison in Practice 3.4 (08/04/2020), URL: https://calc.hypotheses.org/2414.
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Pache, Matthias (2023): Pech and the basic internal classification of Chibchan. International Journal of American Linguistics 89 (1): 81-103.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
-[dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Sagart-2019-250</li></ol>
-[dc:identifier](http://purl.org/dc/terms/identifier) | https://calc.hypotheses.org/2414
+[dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.1086/722240
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/calc-project/pachechibchan
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/calc-project/pachechibchan/tree/e2dcfce">calc-project/pachechibchan e2dcfce</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.6">Glottolog v4.6</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.0.0">Concepticon v3.0.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.2.0">CLTS v2.2.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.9.16</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/calc-project/pachechibchan/tree/5aab531">calc-project/pachechibchan 5aab531</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.2.0">Concepticon v3.2.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.7</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | pachechibchan
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -34,7 +33,7 @@ This is the basis for creating rows in CLDF representations of the data by
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1034
+[dc:extent](http://purl.org/dc/terms/extent) | 3437
 
 
 ### Columns
@@ -60,7 +59,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 5
+[dc:extent](http://purl.org/dc/terms/extent) | 25
 
 
 ### Columns
@@ -73,17 +72,17 @@ Name/Property | Datatype | Description
 `Glottolog_Name` | `string` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string` | 
 [Macroarea](http://cldf.clld.org/v1.0/terms.rdf#macroarea) | `string` | 
-[Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal` | 
-[Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
+[Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal`<br>&ge; -90<br>&le; 90 | 
+[Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal`<br>&ge; -180<br>&le; 180 | 
 `Family` | `string` | 
-`Sources` | `string` | 
+`Source` | `string` | 
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 206
+[dc:extent](http://purl.org/dc/terms/extent) | 207
 
 
 ### Columns
