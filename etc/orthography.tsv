@@ -1,339 +1,251 @@
-Grapheme	IPA	Examples	Languages	Frequence	Codepoints
-^	NULL				
-$	NULL				
--	<?>	ˈwe-l-tok-ka, ˈwẽ-ʒi-luk-ka	Damana, Kogi, Pech, Ika	100	U+002d
-a	a	<mama>, <kandina>	Atanques, Ika, Damana, Kogi, Pech	100	U+0061
-n	n	<yunankanáni>, <yunyuangue kuen>	Damana, Atanques, Ika, Pech, Kogi	100	U+006e
-k	k	<kitiangue kuake>, <dukakána>	Atanques, Pech, Damana, Ika, Kogi	100	U+006b
-a$	a	a-nʒoma, a-seˈwa	Damana, Ika, Kogi, Pech	100	U+0061 U+0024
-u	u	kusuruma, aˈhuma ʒiɡ-ˈzu-kku-ĩ	Kogi, Damana, Atanques, Ika, Pech	100	U+0075
-^⊘$	<?>	⊘	Atanques, Ika, Damana, Kogi, Pech	100	U+005e U+2298 U+0024
-i	i	aʔsiˈris-ən, atikisí	Damana, Ika, Kogi, Atanques, Pech	100	U+0069
-ə	ə	wəˈrəss-ən, ˈkəldi	Ika, Kogi	100	U+0259
-i$	i	ˈkəldi, ˈinʔɡwi	Kogi, Damana, Ika, Pech	100	U+0069 U+0024
->$	<?>	<ferúa>, <sakaméru>	Atanques	99	U+003e U+0024
-^<	<?>	<ferúa>, <kumáne>	Atanques	92	U+005e U+003c
-ɨ	ɨ	kɨn-kɨna, dɨmɨ-nɡɨna	Damana, Ika, Kogi	91	U+0268
-^a	a	a-nʒoma, a-seˈwa	Pech, Ika, Kogi, Damana	90	U+005e U+0061
-e	e	a-seˈwa, <mahtembáyene>	Atanques, Damana, Ika, Kogi, Pech	87	U+0065
-m	m	a-nʒoma, <mahtembáyene>	Damana, Atanques, Ika, Pech, Kogi	79	U+006d
-n$	n	hiˈən, kɨn	Ika, Damana, Pech, Kogi	68	U+006e U+0024
-^k	k	kɨn, kən	Damana, Pech, Kogi, Ika	66	U+005e U+006b
-t	t	butùkti, <tutu>	Damana, Atanques, Pech, Kogi, Ika	62	U+0074
-ʔ	ʔ	ˈinʔɡwi, ɡeiˈaʔza-ʔ neika	Ika, Pech, Damana, Kogi	62	U+0294
-w	w	sã̀wk-wá, awə́nʔ kawa	Ika, Pech, Damana, Kogi	61	U+0077
-d	d	ˈkəldi, ˈhanəlduldi	Kogi, Damana, Atanques	60	U+0064
-ɡ	g	i-nɡewa-ɡa, ˈnoŋɡuʦe	Damana, Kogi, Ika	53	U+0261
-_	_	du na-ʔ neika, bitu ni aˈw-a-nɨn-ka	Ika, Damana, Pech, Kogi, Atanques	52	U+005f
-l	l	ˈkəldi, ˈmul-kəldə	Kogi, Damana	51	U+006c
-s	s	a-seˈwa, wasisi	Pech, Ika, Kogi, Damana, Atanques	50	U+0073
-r	r	<ferúa>, <sakaméru>	Ika, Atanques, Damana	45	U+0072
-ɨ$	ɨ	ˈinɨ, ˈkomɨ	Ika, Kogi	44	U+0268 U+0024
-o	o	ˈkokoro, a-nʒoma	Ika, Kogi, Damana, Atanques, Pech	43	U+006f
-b	b	ambɨˈsi, <bun>	Kogi, Atanques, Damana, Pech, Ika	42	U+0062
-h	h	ã̀ːhĩ, <kurihgöna>	Kogi, Pech, Atanques, Damana	41	U+0068
-á$	á	pã̀jh-á, wanàk-ká	Pech	38	U+00e1 U+0024
-ʃ	ʃ	əˈʦɨʃi, ˈnaʃ-ĩ	Kogi, Damana, Pech	36	U+0283
-^s	s	suri, suta	Pech, Damana, Ika, Kogi	36	U+005e U+0073
-^t	t	ta, také	Pech, Damana, Ika, Kogi	33	U+005e U+0074
-á	á	pìáh, -jáɾwiʔ	Atanques, Pech	32	U+00e1
-u$	u	jùku, ˈtudu	Ika, Damana, Kogi, Pech	32	U+0075 U+0024
-^m	m	ma, miˈʦə-k	Damana, Kogi, Ika, Pech	31	U+005e U+006d
-ɾ	ɾ	aɾíɾ-Ø, awìʔwàɾ-t-	Pech, Ika	31	U+027e
-^ˈk	k	ˈkəldi, ˈkaɡɡi	Ika, Kogi, Damana	29	U+005e U+02c8 U+006b
-ə$	ə	əˈtemə, huˈnu-kkəldə	Kogi, Damana	27	U+0259 U+0024
-k$	k	bèɾs-k-, apìʃ-k-	Pech, Kogi	27	U+006b U+0024
-^p	p	pã̀jh-á, pahwã́niteh	Pech, Ika, Damana	26	U+005e U+0070
-kk	kk	wanàk-ká, ˈwe-l-tok-ka	Kogi, Pech, Damana, Ika, Atanques	26	U+006b U+006b
-e$	e	ˈnoŋɡuʦe, ˈhauwa-ˈʒə-ne	Kogi, Damana, Ika	26	U+0065 U+0024
-j	j	majɡwa, naj-an	Pech, Damana, Kogi, Atanques	25	U+006a
-^n	n	niˈũwi, no-ˈnɨn-ka	Damana, Kogi, Ika, Pech	24	U+005e U+006e
-^ˈn	n	ˈnoŋɡuʦe, ˈnaʃ-ĩ	Kogi, Ika	24	U+005e U+02c8 U+006e
-ĩ$	ĩ	ˈnaʃ-ĩ, huˈiʃ-ĩ	Kogi, Pech	24	U+0129 U+0024
-p	p	apìʃ-k-, tapèːh-	Pech, Damana, Atanques, Kogi, Ika	23	U+0070
-^ɡ	g	ɡuanuˈana, ɡɨmɨ-ntina	Damana, Kogi, Ika	22	U+005e U+0261
-ʒ	ʒ	i-waʒ-i, ˈwẽ-ʒi-luk-ka	Damana, Kogi, Ika	20	U+0292
-^w	w	-wà, wanàk-ká	Pech, Damana, Ika	20	U+005e U+0077
-^ʃ	ʃ	ʃã̀ʔ-, ʃi-iˈu-ʃi	Pech, Damana, Kogi	20	U+005e U+0283
-ˈk	k	maʔˈkeiwa, bɨnkɨˈka	Ika, Damana, Kogi	19	U+02c8 U+006b
-ú	ú	<anchukúcha>, anúk-k	Atanques, Pech	19	U+00fa
-^i	i	ikína, i-nɡewa-ɡa	Damana, Kogi, Ika, Pech	18	U+005e U+0069
-ŋ	ŋ	ˈnoŋɡuʦe, ak-ˈbaŋ-ɡu-i	Kogi, Ika	18	U+014b
-^b	b	bèɾs-k-, buje	Pech, Damana, Ika	18	U+005e U+0062
-ch	ch	<anchukúcha>, <chörma>	Atanques	18	U+0063 U+0068
-^ˈm	m	ˈmunʒi, ˈmuʃi	Kogi, Ika, Damana	17	U+005e U+02c8 U+006d
-ʔ$	ʔ	√ -poʔ-, ãːɲã̀ʔ	Pech, Ika, Damana	16	U+0294 U+0024
-^h	h	hiˈən, huˈiʃ-ĩ	Kogi, Pech	16	U+005e U+0068
-g	g	<gunahköna>, <yunyuangue kuen>	Atanques	15	U+0067
-^d	d	di, di-wa	Damana, Ika, Kogi	15	U+005e U+0064
-ö	ö	<dörönönke>, <chörma>	Atanques	15	U+00f6
-ˈn	n	ɨˈna, ihkɨˈna	Damana, Ika, Kogi	14	U+02c8 U+006e
-z	z	a-nziz-i, ɨnzisi	Ika, Damana, Kogi, Atanques	14	U+007a
-ɡw	gw	ˈinʔɡwi, ˈinɡwənɨ	Damana, Ika	14	U+0261 U+0077
-ˈw	w	a-seˈwa, biɡˈwi	Kogi, Ika, Damana	14	U+02c8 U+0077
-í	í	síhsína, píspísta	Pech, Atanques	14	U+00ed
-ˈa	a	kəʧihuˈalda, huˈaŋ-ɡəldə	Kogi, Ika, Damana	13	U+02c8 U+0061
-à	à	-màkmàk-ká, wanàk-ká	Pech, Atanques	13	U+00e0
-ˈb	b	ak-ˈbaŋ-ɡu-i, aˈbuʧi	Kogi, Ika	13	U+02c8 U+0062
-ã́$	ã́	aɾhwã́, kuʃã́	Pech	12	U+00e3 U+0301 U+0024
-é	é	jéʔ-á, <sakaméru>	Atanques, Pech	12	U+00e9
-ei	ei	ɡeiˈaʔza-ʔ neika, du na-ʔ neika	Ika, Atanques	12	U+0065 U+0069
-ˈs	s	ɡaˈsiro, sinˈsɨn	Ika, Damana, Kogi	12	U+02c8 U+0073
-ã̀	ã̀	pã̀jh-á, ãːɲã̀ʔ	Pech	11	U+00e3 U+0300
-ã́	ã́	nãjhnã́jna, pahwã́niteh	Pech	11	U+00e3 U+0301
-x	x	ˈɡaxa, ˈkuxa	Kogi	11	U+0078
-kw	kʷ	ˈʤuʔkwɨ, ˈnoʔkw-ən	Ika, Damana, Pech	11	U+006b U+0077
-^ˈɡ	g	ˈɡaxa, ˈɡula	Ika, Kogi, Damana	11	U+005e U+02c8 U+0261
-í$	í	atikisí, tã́jbɾí	Pech	11	U+00ed U+0024
-ʧ	tʃ	kanʧiˈkjama, kəʧihuˈalda	Ika, Kogi, Damana	11	U+02a7
-^√	<?>	√ -poʔ-, √ -kã́h-á	Pech	11	U+005e U+221a
-^ɨ	ɨ	ɨˈna, ɨma	Damana	10	U+005e U+0268
-h$	h	pahwã́niteh, ĩjãh	Pech	10	U+0068 U+0024
-^ʒ	ʒ	ʒa-mai-i, ʒ-ən	Damana, Ika	10	U+005e U+0292
-^ˈh	h	ˈhauwə-ne, ˈhate	Kogi, Ika	10	U+005e U+02c8 U+0068
-^z	z	zu-nɨn-ka, zi	Ika, Kogi, Damana	10	U+005e U+007a
-nʒ	nʒ	a-nʒoma, ˈmunʒi	Damana, Kogi	9	U+006e U+0292
-ˈd	d	nubulˈdi, məlˈde ˈzeŋ-kə	Kogi, Ika, Damana	9	U+02c8 U+0064
-^r	r	reʔˈmasi, reʔˈbeis-ən	Ika, Damana	9	U+005e U+0072
-ˈm	m	aʔˈmi.a, reʔˈmasi	Ika, Kogi, Damana	9	U+02c8 U+006d
-^ˈw	w	ˈwin-ən, ˈwe-l-tok-ka	Ika, Kogi	9	U+005e U+02c8 U+0077
-^j	j	jùku, jéʔ-á	Pech, Kogi	9	U+005e U+006a
-ù	ù	jùku, aʔùk-k-	Pech	9	U+00f9
-ˈɡ	g	aˈɡak-ən, nəbbuˈɡəldə	Ika, Kogi	8	U+02c8 U+0261
-ua	ua	<chómua>, ˈezua-ne	Atanques, Damana, Kogi	8	U+0075 U+0061
-ˈz	z	mɨ aʔˈzɨna, aˈhuma ʒiɡ-ˈzu-kku-ĩ	Kogi, Ika	8	U+02c8 U+007a
-^ˈs	s	ˈsulduk, ˈsukkua	Kogi, Ika	8	U+005e U+02c8 U+0073
-^ˈz	z	ˈzaʔki ˈnuɡa, -ˈzaku	Ika, Kogi, Damana	8	U+005e U+02c8 U+007a
-ɲ	ɲ	ãːɲã̀ʔ, moɲa-nɡena	Pech, Damana, Ika	7	U+0272
-ã	ã	nãjhnã́jna, ĩjãh	Pech, Kogi	7	U+00e3
-ui	ui	<dináshui>, <achuikánke>	Atanques, Kogi	7	U+0075 U+0069
-ˈt	t	əˈtemə, i-ˈttih-ĩ	Kogi, Ika	7	U+02c8 U+0074
-^<s	<?>	<sakaméru>, <súri>	Atanques	7	U+005e U+003c U+0073
-ˈr	r	koˈriʔɡənɨ, ˈkəttiˈrus-ən	Ika, Damana	7	U+02c8 U+0072
-au	au	a-kau-i, ˈmauwi	Kogi, Damana	7	U+0061 U+0075
-^ĩ	ĩ	ĩjãh, -ĩʃkja	Pech, Kogi	6	U+005e U+0129
-^ˈi	i	ˈinɨ, ˈinʔɡwi	Ika, Damana	6	U+005e U+02c8 U+0069
-^ˈa	a	ˈaʔʤ-ən, ˈakwia	Ika, Damana, Kogi	6	U+005e U+02c8 U+0061
-uá	uá	<kahkarituábi>, <kukkuá>	Atanques	6	U+0075 U+00e1
-ˈʧ	tʃ	məˈʧuwi, aʔˈʧukkw-ən	Ika, Kogi	6	U+02c8 U+02a7
-^ə	ə	əˈʦɨʃi, əˈtemə	Kogi, Ika	6	U+005e U+0259
-ẽ	ẽ	aˈsẽʒi, ˈwẽ-ʒi-luk-ka	Kogi	6	U+1ebd
-ˈkw	kʷ	nɨkˈkwa, sɨk-ˈkwa-i-ɡa	Damana	6	U+02c8 U+006b U+0077
-o$	o	ɡaˈsiro, ˈkoʔo	Ika	6	U+006f U+0024
-.	<?>	aʔˈmi.a, ˈʤwi.aʔ	Ika	6	U+002e
-ˈh	h	aˈhuma ʒiɡ-ˈzu-kku-ĩ, kəldiˈhuba	Kogi	6	U+02c8 U+0068
-^ˈʤ	dʒ	ˈʤuʔkwɨ, ˈʤomɨ	Ika	6	U+005e U+02c8 U+02a4
-ɡɡ	gg	ˈkaɡɡi, ˈnuɡɡi	Kogi, Ika, Damana	6	U+0261 U+0261
-t$	t	awìʔwàɾ-t-, kut	Pech, Damana	6	U+0074 U+0024
-ˈə	ə	hiˈən, suˈət-ɡu-ĩ	Kogi	6	U+02c8 U+0259
-ŋ$	ŋ	ˈmaiŋ, ˈse-sɨŋ	Kogi	5	U+014b U+0024
-ai	ai	ʒa-mai-i, ˈmaiŋ	Ika, Kogi, Damana	5	U+0061 U+0069
-^ˈe	e	ˈezua, ˈexə	Kogi, Ika	5	U+005e U+02c8 U+0065
-ì	ì	awìʔwàɾ-t-, akatìʔ-	Pech	5	U+00ec
-ü	ü	<uü>, <andüi>	Atanques	5	U+00fc
-^á	á	áɾ-k-, áʔsábɾìs-ká	Pech	5	U+005e U+00e1
-àh$	àh	kàh, àʃàh-	Pech	5	U+00e0 U+0068 U+0024
-ue	ue	<yunyuangue kuen>, huehuˈen-ĩ	Atanques, Kogi	5	U+0075 U+0065
-^ˈʧ	tʃ	-ˈʧeirwa, ˈʧəmmi	Ika	5	U+005e U+02c8 U+02a7
-^ˈd	d	ˈdi, ˈdu-riɡən	Ika, Kogi	5	U+005e U+02c8 U+0064
-ˈʒ	ʒ	kɨn-ˈʒi-wa, axa-ˈʒuk-ka	Kogi, Damana	5	U+02c8 U+0292
-^kw	kʷ	kwi, kwih-á	Ika, Pech, Damana	5	U+005e U+006b U+0077
-^ˈp	p	ˈpaʃ-i, ˈpeikɨ	Kogi, Ika, Damana	5	U+005e U+02c8 U+0070
-^ˈt	t	ˈtudu, ˈtakbi	Kogi, Ika, Damana	5	U+005e U+02c8 U+0074
-jh	jh	pã̀jh-á, nãjhnã́jna	Pech	5	U+006a U+0068
-à$	à	-wà, ʃà-	Pech	5	U+00e0 U+0024
-tt	tt	ˈkəttɨ, ˈkəttiˈrus-ən	Ika, Damana	5	U+0074 U+0074
-ˈi	i	kuˈih-ĩ, huˈiʃ-ĩ	Kogi, Damana	5	U+02c8 U+0069
-^ã́	ã́	ã́h-, ã́ʔ-Ø-	Pech	5	U+005e U+00e3 U+0301
-f	f	<ferúa>, <fúre>	Atanques	4	U+0066
-ã$	ã	ĩ-jã, pã̀wã	Pech	4	U+00e3 U+0024
-ẽ$	ẽ	kəlˈkẽ, ɡukˈsẽ	Kogi	4	U+1ebd U+0024
-ˈʦ	ts	əˈʦɨʃi, miˈʦə-k	Kogi	4	U+02c8 U+02a6
-^ˈu	u	ˈuzu, ˈumɨ	Ika, Damana, Kogi	4	U+005e U+02c8 U+0075
-ua$	ua	te-rua, ɡuˈaŋɡua	Kogi, Damana	4	U+0075 U+0061 U+0024
-^ã̀	ã̀	ã̀h-, ã̀wki	Pech	4	U+005e U+00e3 U+0300
-ò	ò	tòk-, kòɾtá	Pech	4	U+00f2
-ia	ia	<amiakasáo>, <niakönke>	Atanques	4	U+0069 U+0061
-èʃ	èʃ	ijèʃ-k-, awèʃ-k-	Pech	4	U+00e8 U+0283
-^u	u	u-ˈtẽh-i, unʒu	Damana, Kogi	4	U+005e U+0075
-nn	nn	aˈʧənna, ˈɡunnɨ	Ika, Damana	4	U+006e U+006e
-nʃ	nʃ	kunʃamanduri, ˈhənʃiʒe	Damana, Kogi	4	U+006e U+0283
-kk$	kk	aʔùk-k-, tàwaɾàːk-k-	Pech	4	U+006b U+006b U+0024
-ss	ss	aɡuˈpəss-ən, aʔˈpəss-ən	Ika	4	U+0073 U+0073
-às	às	ahmàs-k, akamàs-k-	Pech	4	U+00e0 U+0073
-ˈp	p	aɡuˈpəss-ən, aʔˈpoʔs-ən	Ika	4	U+02c8 U+0070
-ii$	ii	ka-kwi-i, ɨ-ɡ-w-i-i	Damana	4	U+0069 U+0069 U+0024
-s$	s	ás, ũ̀tas	Pech	3	U+0073 U+0024
-úa	úa	<ferúa>, <fúa>	Atanques	3	U+00fa U+0061
-^ã̀ː	ã̀ː	-ã̀ːsá, ã̀ːʃã́ʔ	Pech	3	U+005e U+00e3 U+0300 U+02d0
-^ˈʒ	ʒ	ˈʒita, ˈʒe ak-ˈzeʃ-ĩ	Ika, Damana, Kogi	3	U+005e U+02c8 U+0292
-iu	iu	<michiuña>, tiu-kwe-ɡa	Ika, Damana, Atanques	3	U+0069 U+0075
-ˈe	e	huehuˈen-ĩ, hiˈe ak-ˈze	Kogi	3	U+02c8 U+0065
-ʦ	ts	ˈnoŋɡuʦe, ˈnusa-ɡə-ʦe	Kogi	3	U+02a6
-yu	yu	<unyu>, <yunankanáni>	Atanques	3	U+0079 U+0075
-mm	mm	ˈʧəmmi, ɡəmmɨˈsinɨ	Ika	3	U+006d U+006d
-àː	àː	-kàːkí, bàːk-í	Pech	3	U+00e0 U+02d0
-ns	ns	kɨnsi, ˈbunsi kawa	Ika, Damana	3	U+006e U+0073
-^ɡw	gw	ɡwi-kɨna, ɡwaʒ-i	Damana, Ika	3	U+005e U+0261 U+0077
-uí	uí	<uíma>, <uíchi>	Atanques	3	U+0075 U+00ed
-^ʤw	ʤw	ʤwaˈwika, ʤwa	Ika	3	U+005e U+02a4 U+0077
-ũ̀	ũ̀	-ʃũ̀nã́, -sũ̀hã́	Pech	3	U+0169 U+0300
-àw	àw	akàwɾí, tàwaɾàːk-k-	Pech	3	U+00e0 U+0077
-ʔs	ʔs	aʔˈpoʔs-ən, áʔsábɾìs-ká	Ika, Pech	3	U+0294 U+0073
-kʃ	kʃ	ˈnukʃ-ĩ, amɨkʃi	Kogi, Damana	3	U+006b U+0283
-ɾs	ɾs	bèɾs-k-, √ kaɾs-k-	Pech	3	U+027e U+0073
-ìʃ	ìʃ	apìʃ-k-, ũpìʃ-ká	Pech	3	U+00ec U+0283
-ˈũ	ũ	niˈũwi, ʃi-hiˈũw-i	Kogi	3	U+02c8 U+0169
-^ʤ	dʒ	ʤe, ʤeˈswi	Ika	3	U+005e U+02a4
-^ˈb	b	ˈbunsi kawa, ˈbun-zə-ɡa	Ika	3	U+005e U+02c8 U+0062
-^tw	tw	twi kawa, twi	Ika, Damana	3	U+005e U+0074 U+0077
-^ũ̀	ũ̀	ũ̀tas, ũ̀h-	Pech	2	U+005e U+0169 U+0300
-^ĩ$	ĩ	ĩ-, ĩ	Pech	2	U+005e U+0129 U+0024
-áye	áye	<mahtembáyene>, <atahkáye>	Atanques	2	U+00e1 U+0079 U+0065
-^à	à	àʔa, àʔ-t-	Pech	2	U+005e U+00e0
-^ə̃	ə̃	ə̃ʔə, ə̃ʔə̃	Damana, Kogi	2	U+005e U+0259 U+0303
-ɾ$	ɾ	peɾ, √ sùɾ-	Pech	2	U+027e U+0024
-ɾw	ɾw	-jáɾwiʔ, aɾwéʔwa	Pech	2	U+027e U+0077
-ʔw	ʔw	awìʔwàɾ-t-, aɾwéʔwa	Pech	2	U+0294 U+0077
-ãu	ãu	ak-ˈkãuw-i, ˈnãuwə ˈme	Kogi	2	U+00e3 U+0075
-^àː	àː	àːkwa, àːkapéʃ-k-	Pech	2	U+005e U+00e0 U+02d0
-ˈɡw	ˈgw	nuˈɡwen-ən, inˈɡwi-nɨn-ka	Ika, Damana	2	U+02c8 U+0261 U+0077
-jh$	jh	ã́jh-, mã̀jh	Pech	2	U+006a U+0068 U+0024
-ii	ii	ri-i-nuk-ka, ʃi-iˈu-ʃi	Damana	2	U+0069 U+0069
-^†	<?>	†paɾmi, †peha	Pech	2	U+005e U+2020
-ɾhw	ɾhw	aɾhwã́	Pech	2	U+027e U+0068 U+0077
-rw	rw	ˈʧeirwa, -ˈʧeirwa	Ika	2	U+0072 U+0077
-ùs	ùs	-tùs-ká, -tuɾùsã́	Pech	2	U+00f9 U+0073
-^e	e	ebís-ká, -ekɨ	Ika, Pech	2	U+005e U+0065
-ˈʤ	dʒ	zaˈʤuna, mamaduˈisa ˈʤui	Ika, Damana	2	U+02c8 U+02a4
-ìs	ìs	áʔsábɾìs-ká, pãjhpìská	Pech	2	U+00ec U+0073
-ó	ó	póɾ-k-, <chómua>	Atanques, Pech	2	U+00f3
-bb	bb	ˈəbbi, nəbbuˈɡəldə	Kogi	2	U+0062 U+0062
-ñ	ɲ	<michiuña>, <múña>	Atanques	2	U+00f1
-ĩ́	ĩ́	kĩ́ʔ-á, -ʃĩ́h-ká	Pech	2	U+0129 U+0301
-Ø$	<?>	aɾíɾ-Ø, ã́ʔ-Ø-	Pech	2	U+00d8 U+0024
-aa	aa	wi a-anʒɨn-ɡa, kiˈka-a-te	Damana	2	U+0061 U+0061
-õ̀	õ̀	aɾkõ̀h-, mijõ̀ʃ-k	Pech	2	U+00f5 U+0300
-ˈa$	a	ĩhiˈa, tu-ˈa	Damana, Kogi	2	U+02c8 U+0061 U+0024
-ou	ou	ˈʧouʧou kə-ˈnak-ən	Ika	2	U+006f U+0075
-^ˈɡw	ˈgw	ˈɡwirkənɨ, ˈɡwak-ən	Ika	2	U+005e U+02c8 U+0261 U+0077
-è	è	bèɾs-k-	Pech	2	U+00e8
-ˈl	l	jo axa-ˈldeʃ-i, ak-ˈldoʃ-ĩ	Kogi	2	U+02c8 U+006c
-ˈi$	i	suˈi, ak-suˈi	Kogi	2	U+02c8 U+0069 U+0024
-ʤ	dʒ	ˈaʔʤ-ən, ˈkuʤ-ən	Ika	2	U+02a4
-^ã̀ː$	ã̀ː	ã̀ː	Pech	2	U+005e U+00e3 U+0300 U+02d0 U+0024
-ò$	ò	asò	Pech	2	U+00f2 U+0024
-é$	é	také	Pech	2	U+00e9 U+0024
-y	y	<nebinyàku>, <uinanyéne>	Atanques	2	U+0079
-^ˈʤw	ˈʤw	ˈʤwabu, ˈʤwi.aʔ	Ika	2	U+005e U+02c8 U+02a4 U+0077
-ei$	ei	məˈʧei, ɡei	Ika	2	U+0065 U+0069 U+0024
-ó$	ó	-jó, tikó	Pech	2	U+00f3 U+0024
-^ãː	ãː	ãːɲã̀ʔ	Pech	1	U+005e U+00e3 U+02d0
-^a$	a	a	Ika	1	U+005e U+0061 U+0024
-^ẽ	ẽ	ẽhiˈe	Kogi	1	U+005e U+1ebd
-ˈe$	e	ẽhiˈe	Kogi	1	U+02c8 U+0065 U+0024
-hw	hw	pahwã́niteh	Pech	1	U+0068 U+0077
-^éː	éː	éːkawã̀hã́	Pech	1	U+005e U+00e9 U+02d0
-uẽ$	uẽ	ˈe-kkuẽ	Kogi	1	U+0075 U+1ebd U+0024
-^ˈei	ei	ˈeima	Ika	1	U+005e U+02c8 U+0065 U+0069
-ˈai$	ai	h-ˈai	Kogi	1	U+02c8 U+0061 U+0069 U+0024
-ə̃$	ə̃	ə̃ʔə̃	Kogi	1	U+0259 U+0303 U+0024
-óː	óː	póːk	Pech	1	U+00f3 U+02d0
-oᵘ	oᵘ	ˈmoᵘɡa	Ika	1	U+006f U+1d58
-ũa$	ũa	ˈmoʒũa	Kogi	1	U+0169 U+0061 U+0024
-ũə$	ũə	ˈmaiɡũə	Kogi	1	U+0169 U+0259 U+0024
-ãi	ãi	məkˈkãiwa	Kogi	1	U+00e3 U+0069
-íua	íua	<achíua>	Atanques	1	U+00ed U+0075 U+0061
-ĩ	ĩ	həˈʧĩwə	Kogi	1	U+0129
-ə́	ə́	awə́nʔ kawa	Ika	1	U+0259 U+0301
-yú	yú	<guanyúnke>	Atanques	1	U+0079 U+00fa
-ia$	ia	ˈakwia	Damana	1	U+0069 U+0061 U+0024
-hs	hs	síhsína	Pech	1	U+0068 U+0073
-yua	yua	<yunyuangue kuen>	Atanques	1	U+0079 U+0075 U+0061
-áo	áo	<amiakasáo>	Atanques	1	U+00e1 U+006f
-ú$	ú	ʃúʃú	Pech	1	U+00fa U+0024
-^uː$	uː	uː	Pech	1	U+005e U+0075 U+02d0 U+0024
-ˈo	o	ɡwi.ˈomɨ	Ika	1	U+02c8 U+006f
-ẽ́	ẽ́	ʃẽ́ʔ	Pech	1	U+1ebd U+0301
-àːs	àːs	-wàːsá	Pech	1	U+00e0 U+02d0 U+0073
-wh	wh	ã̀wh-ã́	Pech	1	U+0077 U+0068
-mʃ	mʃ	kəlˈhumʃi	Kogi	1	U+006d U+0283
-w̃	w̃	tiw̃a	Damana	1	U+0077 U+0303
-^ùː	ùː	ùːɾí	Pech	1	U+005e U+00f9 U+02d0
-^ˈə	ə	ˈəbbi	Kogi	1	U+005e U+02c8 U+0259
-ĩ̀ː	ĩ̀ː	-wĩ̀ːʃ-ká	Pech	1	U+0129 U+0300 U+02d0
-ṹs$	ṹs	sã́ʔṹs-	Pech	1	U+1e79 U+0073 U+0024
-^<sh	<?>	<shá>	Atanques	1	U+005e U+003c U+0073 U+0068
-ãi$	ãi	ˈsãi	Kogi	1	U+00e3 U+0069 U+0024
-js	js	-tã́jsa	Pech	1	U+006a U+0073
-öh	öh	<köhka>	Atanques	1	U+00f6 U+0068
-^ùːw	ùːw	ùːwa	Pech	1	U+005e U+00f9 U+02d0 U+0077
-ös	ös	<kösá>	Atanques	1	U+00f6 U+0073
-üh	üh	<bukühköna>	Atanques	1	U+00fc U+0068
->	<?>	<gúna><	Atanques	1	U+003e
-<$	<?>	<gúna><	Atanques	1	U+003c U+0024
-ya	ya	<yanahtáma>	Atanques	1	U+0079 U+0061
-ŋʃ	ŋʃ	muŋʃiŋ-kəldə	Kogi	1	U+014b U+0283
-ùː	ùː	-tùːtu	Pech	1	U+00f9 U+02d0
-àh	àh	sàhkɾàh-	Pech	1	U+00e0 U+0068
-^ʃw	ʃw	ʃwiʃ-i	Damana	1	U+005e U+0283 U+0077
-^ʧw	ʧw	ʧw-ən	Ika	1	U+005e U+02a7 U+0077
-ũ	ũ	ˈtũw-i	Kogi	1	U+0169
-jʃ$	jʃ	amã́jʃ-	Pech	1	U+006a U+0283 U+0024
-^aũ̀	aũ̀	aũ̀h-	Pech	1	U+005e U+0061 U+0169 U+0300
-^òː	òː	òː-k-	Pech	1	U+005e U+00f2 U+02d0
-iáo	iáo	<kamam pariáo>	Atanques	1	U+0069 U+00e1 U+006f
-éːh$	éːh	tapéːh-	Pech	1	U+00e9 U+02d0 U+0068 U+0024
-ˈẽ	ẽ	huˈẽn-i	Kogi	1	U+02c8 U+1ebd
-éʃ	éʃ	àːkapéʃ-k-	Pech	1	U+00e9 U+0283
-^àʃ	àʃ	àʃàh-	Pech	1	U+005e U+00e0 U+0283
-èːh$	èːh	tapèːh-	Pech	1	U+00e8 U+02d0 U+0068 U+0024
-ùh$	ùh	sukùh-	Pech	1	U+00f9 U+0068 U+0024
-tw	tw	apan-a-twan	Damana	1	U+0074 U+0077
-aɨ	aɨ	ˈkaɨ reʔˈɡaw-ən	Ika	1	U+0061 U+0268
-ˈʃ	ʃ	ʃət-ˈʃət-ɡu-ĩ	Kogi	1	U+02c8 U+0283
-^ˈɨ	ɨ	ˈɨrkɨt-i	Damana	1	U+005e U+02c8 U+0268
-ˈtw	ˈtw	araʔˈtwis-ən	Ika	1	U+02c8 U+0074 U+0077
-ṹh$	ṹh	aɾtṹh-	Pech	1	U+1e79 U+0068 U+0024
-ìː	ìː	bɾìː-k-	Pech	1	U+00ec U+02d0
-ˈu	u	ʃi-iˈu-ʃi	Damana	1	U+02c8 U+0075
-ìh$	ìh	abɾìh-	Pech	1	U+00ec U+0068 U+0024
-^†s	<?>	†sajnis-t-	Pech	1	U+005e U+2020 U+0073
-õː	õː	põːk-t-	Pech	1	U+00f5 U+02d0
-yo	yo	<koköbúnyo>	Atanques	1	U+0079 U+006f
-ui$	ui	mamaduˈisa ˈʤui	Damana	1	U+0075 U+0069 U+0024
-sh	sh	<dináshui>	Atanques	1	U+0073 U+0068
-ˈʃw	ˈʃw	dukˈʃwi	Damana	1	U+02c8 U+0283 U+0077
-ˈsw	ˈsw	ʤeˈswi	Ika	1	U+02c8 U+0073 U+0077
-^l	l	lawùnah-á	Pech	1	U+005e U+006c
-ós	ós	<pósu>	Atanques	1	U+00f3 U+0073
-ɾs$	ɾs	√ sujaɾs	Pech	1	U+027e U+0073 U+0024
-^ũ	ũ	ũpìʃ-ká	Pech	1	U+005e U+0169
-òs	òs	tokòsã́	Pech	1	U+00f2 U+0073
-m$	m	dɨm	Damana	1	U+006d U+0024
-ie$	ie	ɡie	Damana	1	U+0069 U+0065 U+0024
-àːh	àːh	tàːh-á	Pech	1	U+00e0 U+02d0 U+0068
-iũ	iũ	hiũŋɡulda	Kogi	1	U+0069 U+0169
-òː	òː	ʃòːk-ká	Pech	1	U+00f2 U+02d0
-yi	yi	<yikánka>	Atanques	1	U+0079 U+0069
-^ʧ	tʃ	ʧikiˈruru	Ika	1	U+005e U+02a7
-èːw	èːw	sèːwa	Pech	1	U+00e8 U+02d0 U+0077
-íː	íː	bíːsa-	Pech	1	U+00ed U+02d0
-ks	ks	aˈbəksɨ	Kogi	1	U+006b U+0073
-ˈia$	ia	duˈia	Damana	1	U+02c8 U+0069 U+0061 U+0024
-ẽ́$	ẽ́	√ sẽ́-	Pech	1	U+1ebd U+0301 U+0024
-^ì	ì	ìʔká	Pech	1	U+005e U+00ec
-ùw	ùw	√ ʃùwa	Pech	1	U+00f9 U+0077
-áu	áu	<sukankanáu>	Atanques	1	U+00e1 U+0075
-^ˈʃ	ʃ	ˈʃane	Kogi	1	U+005e U+02c8 U+0283
-oa	oa	<nonoarihchín>	Atanques	1	U+006f U+0061
-ay	ay	<tin-anayüne>	Atanques	1	U+0061 U+0079
-ĩ̀	ĩ̀	wiʃĩ̀h-	Pech	1	U+0129 U+0300
-às$	às	√ màs-	Pech	1	U+00e0 U+0073 U+0024
-aie$	aie	nɨnaie	Damana	1	U+0061 U+0069 U+0065 U+0024
-ey	ey	<mohteyéne>	Atanques	1	U+0065 U+0079
-ˈj	j	akˈjo ˈzeŋ	Kogi	1	U+02c8 U+006a
-ã̀ː	ã̀ː	kã̀ːɾa-	Pech	1	U+00e3 U+0300 U+02d0
-^x	x	-xa	Kogi	1	U+005e U+0078
-^ɾ	ɾ	-ɾás	Pech	1	U+005e U+027e
-ĩ́ː$	ĩ́ː	-pĩ́ː	Pech	1	U+0129 U+0301 U+02d0 U+0024
+Grapheme	IPA	Frequence	Codepoints
+a	a	1989	U+0061
+i	i	1185	U+0069
+k	k	1180	U+006b
+u	u	1009	U+0075
+n	n	707	U+006e
+-	NULL	539	U+002d
+t	t	494	U+0074
+e	e	449	U+0065
+s	s	401	U+0073
+b	b	384	U+0062
+r	r	376	U+0072
+ə	ə	361	U+0259
+o	o	358	U+006f
+m	m	306	U+006d
+á	á	303	U+00e1
+ɾ	ɾ	296	U+027e
+l	l	284	U+006c
+d	d	232	U+0064
+ŋ	ŋ	204	U+014b
+ˈ	NULL
+ʔ	ʔ	196	U+0294
+p	p	193	U+0070
+h	h	174	U+0068
+ɡ	g	170	U+0261
+w	w	163	U+0077
+ɔ	ɔ	159	U+0254
+ɨ	ɨ	154	U+0268
+j	j	153	U+006a
+ɛ	ɛ	127	U+025b
+í	í	122	U+00ed
+ú	ú	122	U+00fa
+ʃ	ʃ	119	U+0283
+g	g	114	U+0067
+y	y	109	U+0079
+ã	ã	104	U+00e3
+c	c	92	U+0063
+x	x	91	U+0078
+z	z	87	U+007a
+ĩ	ĩ	81	U+0129
+é	é	76	U+00e9
+kw	kʷ	69	U+006b U+0077
+ʧ	tʃ	66	U+02a7
+q	q	65	U+0071
+ó	ó	62	U+00f3
+aa	aa	61	U+0061 U+0061
+kk	k k	55	U+006b U+006b
+ʊ́	ʊ́	54	U+028a U+0301
+ɔ́	ɔ́	53	U+0254 U+0301
+ã́	ã́	51	U+00e3 U+0301
+ii	ii	47	U+0069 U+0069
+ʊ	ʊ	47	U+028a
+ʤ	dʒ	44	U+02a4
+aː	aː	43	U+0061 U+02d0
+ɽ	ɽ	43	U+027d
+ɪ́	ɪ́	40	U+026a U+0301
+oː	oː	37	U+006f U+02d0
+ʒ	ʒ	34	U+0292
+iː	iː	33	U+0069 U+02d0
+ẽ	ẽ	30	U+1ebd
+ũ	ũ	30	U+0169
+ɲ	ɲ	29	U+0272
+kʰ	kʰ	28	U+006b U+02b0
+ɬ	ɬ	28	U+026c
+uː	uː	25	U+0075 U+02d0
+ɸ	ɸ	24	U+0278
+ɪ	ɪ	21	U+026a
+tt	t t	21	U+0074 U+0074
+ʦ	ts	20	U+02a6
+ɡw	gʷ	19	U+0261 U+0077
+ĩ́	ĩ́	18	U+0129 U+0301
+uu	uu	18	U+0075 U+0075
+ɯ	ɯ	18	U+026f
+f	f	17	U+0066
+ns	n s	16	U+006e U+0073
+à	à	16	U+00e0
+ɤ	ɤ	16	U+0264
+ö	ö	15	U+00f6
+ɺ	ɺ	14	U+027a
+χ	χ	13	U+03c7
+eː	eː	13	U+0065 U+02d0
+nn	n n	13	U+006e U+006e
+ã̀	ã̀	12	U+00e3 U+0300
+ẽ́	ẽ́	12	U+1ebd U+0301
+ʔs	ʔ s	12	U+0294 U+0073
+ks	k s	11	U+006b U+0073
+v	v	11	U+0076
+ŋw	ŋ w	11	U+014b U+0077
+ɛ́	ɛ́	10	U+025b U+0301
+ɛ̃	ɛ̃	9	U+025b U+0303
+ɔ̃	ɔ̃	9	U+0254 U+0303
+nʒ	n ʒ	9	U+006e U+0292
+pp	p p	9	U+0070 U+0070
+tʰ	tʰ	8	U+0074 U+02b0
+ʔw	ʔ w	8	U+0294 U+0077
+ù	ù	8	U+00f9
+ì	ì	7	U+00ec
+oo	o o	7	U+006f U+006f
+õ	õ	7	U+00f5
+às	à s	6	U+00e0 U+0073
+ñ	ɲ	6	U+00f1
+ã̀ː	ã̀ː	6	U+00e3 U+0300 U+02d0
+ŋ͡ɡ	ŋ	6	U+014b U+0361 U+0261
+.	NULL	6	U+002e
+mm	m m	6	U+006d U+006d
+ṹ	ṹ	6	U+1e79
+jh	j h	6	U+006a U+0068
+ɡɡ	g g	6	U+0261 U+0261
+ss	s s	6	U+0073 U+0073
+ũ̀	ũ̀	5	U+0169 U+0300
+tʃ	tʃ	5	U+0074 U+0283
+ü	ü	5	U+00fc
+àː	àː	5	U+00e0 U+02d0
+àh	à h	5	U+00e0 U+0068
+ò	ò	5	U+00f2
+θ	θ	5	U+03b8
+èʃ	è ʃ	4	U+00e8 U+0283
+ɯ̃	ɯ̃	4	U+026f U+0303
+sh	ʃ	4	U+0073 U+0068
+ū	ū	4	U+016b
+jʃ	j ʃ	4	U+006a U+0283
+kʃ	k ʃ	4	U+006b U+0283
+nʃ	n ʃ	4	U+006e U+0283
+bs	b s	4	U+0062 U+0073
+ɾs	ɾ s	4	U+027e U+0073
+tw	t w	4	U+0074 U+0077
+ɨɨ	ɨɨ	4	U+0268 U+0268
+ə̃	ə̃	3	U+0259 U+0303
+ɾw	ɾ w	3	U+027e U+0077
+bb	b b	3	U+0062 U+0062
+rw	r w	3	U+0072 U+0077
+ãã	ãã	3	U+00e3 U+00e3
+ŋs	ŋ s	3	U+014b U+0073
+ṍ	ṍ	3	U+1e4d
+ʤw	dʒʷ	3	U+02a4 U+0077
+àw	à w	3	U+00e0 U+0077
+ìʃ	ì ʃ	3	U+00ec U+0283
+n͡d	n d	2	U+006e U+0361 U+0064
+ɔ̃́	ɔ̃́	2	U+0254 U+0303 U+0301
+ee	ee	2	U+0065 U+0065
+ɾhw	ɾ h w	2	U+027e U+0068 U+0077
+ùs	ù s	2	U+00f9 U+0073
+ō	ō	2	U+014d
+ìs	ì s	2	U+00ec U+0073
+ɡʃ	g ʃ	2	U+0261 U+0283
+ts	ts	2	U+0074 U+0073
+ʔw̃	ʔ w̃	2	U+0294 U+0077 U+0303
+ùː	ùː	2	U+00f9 U+02d0
+ps	p s	2	U+0070 U+0073
+ós	ó s	2	U+00f3 U+0073
+ŋʃ	ŋ ʃ	2	U+014b U+0283
+õ̀	õ̀	2	U+00f5 U+0300
+mw	m w	2	U+006d U+0077
+òː	òː	2	U+00f2 U+02d0
+è	è	2	U+00e8
+â	â	2	U+00e2
+dʲ	dʲ	2	U+0064 U+02b2
+[	NULL	
+]	NULL	
+/	NULL	
+^_	NULL
+_$	NULL
+_	+
+†	NULL
+ch	tʃ
+ɛ̃̂	ɛ̃
+ɟ	ɟ
+ī	ĩ
+ɛ̃́	ɛ̃
+w̃	w
+ɛ̄	ɛ̃
+ãː	ãː
+w̄	w
+ɾw̄ɔ̃̄	ɾ w ɔ̃
+ɪ̀	ɪ̀
+ā̯̀	a
+ɪ̌	!ɪ̌/ɪ
+ǔ	!ǔ/u
+ũ̄	ũ
+ã̄	!ã̄/ã
+ə̀	ə̀
+˺	NULL
+ˑ	NULL
+ɛ̃̀	ɛ̃̀
+pː	pː
+tː	tː
+ʊ̂	!ʊ̂/ʊ
+tː͡ʃ	tʃː
+ʊ̀	ʊ̀
+ɪ̂	!ɪ̂/ɪ
+ā	a
+î	!î/i
+j̃	j
+ũ̯̀	!ũ̯̀/ù
+k̚	k
+iʰ	!iʰ/i̤
+aʰ	!aʰ/a̤
+eʰ	!eʰ/e̤
+uʰ	!uʰ/ṳ
+aˑʰ	!aʰ/a̤
+iˑʰ	!iʰ/i̤
+ὄ	!ὄ/o
+ll	ʝ
+éː	éː
+-Ø	NULL
+-t-$	+ t
+õː	õː
+ìː	ìː
+èː	èː
+óː	óː
+ĩ́ː	ĩ́ː
+à̯	!à̯/à
+ɛ̂	ɛ
+ĩ̀	ĩ̀
+ɑ̃̀	ã
+ɔ̄	ɔ
+ā̂	!ā̂/a
+ˌ	NULL
+ɛ̀	ɛ
+sː	sː
+ŋː	ŋː
+ã̂	ã
+ũ̌	ũ
+ɔ̃̀	ɔ̃̀
+ù̯	ù
+ə̃̀	ə̃
+kʲ	kʲ
+kː	kː
+ɔ̃̂	ɔ̃
+ũ̂	ũ
+ẽ́́	ẽ
+ω	w
+oᵘ	!oᵘ/o
+kʷ	kʷ
+ʊ̯̀	ʊ
+ɽ̃	ɽ
+ã̌	ã
+ã́ -	ã
+ẽ̀	!ẽ̀/ẽ
+íː	!íː/iː
+ĩ̀ː	!ìː/iː
+ã̯́	ã
+ɛ̃̄	ɛ̃
+ã́́	ã
+ì̥	ì
+ɔ̄́	ɔ
+ɔ̃̄	ɔ̃
+ə́	!ə́/ə
+squa	+ s x a
+gue 	gʷ e
+_-$	NULL

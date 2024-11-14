@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Aaley and Bodt's \"New Kusunda data: A list of 250 concepts\" from 2020",
+    "title": "CLDF dataset derived from Pache's \"Pech and the basic internal classification of Chibchan\" from 2023",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -7,36 +7,13 @@
     ],
     "creators": [
         {
-            "name": "Uday Raj Aaley"
-        },
-        {
-            "name": "Timotheus A. Bodt"
+            "name": "Matthias Pache"
         }
     ],
     "contributors": [
         {
-            "name": "Uday Raj Aaley",
-            "type": "RightsHolder"
-        },
-        {
-            "name": "Uday Raj Aaley",
-            "type": "Distributor"
-        },
-        {
-            "name": "Timotheus A. Bodt",
-            "type": "RightsHolder"
-        },
-        {
-            "name": "Timotheus A. Bodt",
-            "type": "Distributor"
-        },
-        {
-            "name": "Mei-Shin Wu",
-            "type": "Other"
-        },
-        {
-            "name": "Johann-Mattis List",
-            "type": "Other"
+            "name": "Frederic Blum",
+            "type": "Editor"
         }
     ],
     "communities": [
@@ -45,7 +22,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Uday Raj Aaley and Timotheus A. Bodt (2020): New Kusunda data: A list of 250 concepts. Computer-Assisted Language Comparison in Practice 3.4 (08/04/2020), URL: https://calc.hypotheses.org/2414.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Pache, Matthias (2023): Pech and the basic internal classification of Chibchan. International Journal of American Linguistics 89 (1): 81-103.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
