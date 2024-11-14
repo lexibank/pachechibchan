@@ -2933,7 +2933,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 29,
+                "+": 28,
                 "a": 47,
                 "b": 26,
                 "d": 15,
@@ -8788,7 +8788,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 32,
+                "+": 52,
                 "a": 206,
                 "b": 35,
                 "c": 73,
@@ -8801,12 +8801,12 @@
                 "n": 44,
                 "o": 40,
                 "p": 15,
-                "q": 63,
+                "q": 43,
                 "s": 94,
                 "t": 28,
                 "t\u0283": 26,
-                "u": 171,
-                "x": 4,
+                "u": 151,
+                "x": 24,
                 "y": 88,
                 "z": 56,
                 "\u00e2": 2
@@ -9268,7 +9268,7 @@
             "segments": {
                 "!\u00ec\u02d0/i\u02d0": 1,
                 "!\u00ed\u02d0/i\u02d0": 1,
-                "+": 15,
+                "+": 5,
                 "a": 86,
                 "b": 13,
                 "e": 5,
@@ -9779,7 +9779,6 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 1,
                 "a": 120,
                 "aa": 40,
                 "b": 10,
@@ -10790,98 +10789,13 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Cabecar-127_three-1",
-                "Cabecar",
-                "127_three",
-                "m\u00e3\u0272\u00e3\u0301 -",
-                "m \u00e3 \u0272 \u00e3\u0301 +"
-            ],
-            [
-                "Pech-102_sand-1",
-                "Pech",
-                "102_sand",
-                "\u221a suja\u027es",
-                "+ s u j a \u027e s"
-            ],
-            [
-                "Pech-111_smooth-1",
-                "Pech",
-                "111_smooth",
-                "\u221a s\u00f9\u027e-",
-                "+ s \u00f9 \u027e"
-            ],
-            [
-                "Pech-130_tobreathe-1",
-                "Pech",
-                "130_tobreathe",
-                "\u221a sam\u00e0k-t-",
-                "+ s a m \u00e0 k + t"
-            ],
-            [
-                "Pech-132_tocome-1",
-                "Pech",
-                "132_tocome",
-                "\u221a -po\u0294-",
-                "+ p o \u0294"
-            ],
-            [
-                "Pech-134_tocut-1",
-                "Pech",
-                "134_tocut",
-                "\u221a ka\u027es-k-",
-                "+ k a \u027e s k"
-            ],
-            [
-                "Pech-17_bone-1",
-                "Pech",
-                "17_bone",
-                "\u221a -k\u00e3\u0301h-\u00e1",
-                "+ k \u00e3\u0301 h \u00e1"
-            ],
-            [
-                "Pech-191_wet-1",
-                "Pech",
-                "191_wet",
-                "\u221a m\u00e0s-",
-                "+ m \u00e0 s"
-            ],
-            [
-                "Pech-21_cold-1",
-                "Pech",
-                "21_cold",
-                "\u221a s\u1ebd\u0301-",
-                "+ s \u1ebd\u0301"
-            ],
-            [
-                "Pech-28_dust-1",
-                "Pech",
-                "28_dust",
-                "\u221a puk-",
-                "+ p u k"
-            ],
-            [
-                "Pech-9_bad-1",
-                "Pech",
-                "9_bad",
-                "\u221a w\u00e0\u027eku-",
-                "+ w \u00e0 \u027e k u"
-            ],
-            [
-                "Rama-95_river-1",
-                "Rama",
-                "95_river",
-                "rii \u2018creek\u2019",
-                "r ii +"
-            ]
-        ],
-        "bad_words_count": 12,
+        "bad_words": [],
+        "bad_words_count": 0,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 34.36363636363636,
+        "inventory_size": 34.31818181818181,
         "replacements": {
             "!a\u02b0/a\u0324": [
                 "a\u0324"
@@ -11351,7 +11265,7 @@
             "!\u026a\u030c/\u026a": 2,
             "!\u028a\u0302/\u028a": 4,
             "!\u1f44/o": 1,
-            "+": 178,
+            "+": 186,
             "a": 2173,
             "aa": 75,
             "a\u02d0": 43,
@@ -11384,7 +11298,7 @@
             "o\u02d0": 37,
             "p": 237,
             "p\u02d0": 2,
-            "q": 65,
+            "q": 45,
             "r": 412,
             "s": 617,
             "s\u02d0": 1,
@@ -11394,13 +11308,13 @@
             "t\u0283\u02d0": 1,
             "t\u02b0": 8,
             "t\u02d0": 1,
-            "u": 1076,
+            "u": 1056,
             "uu": 25,
             "u\u02d0": 25,
             "v": 12,
             "w": 296,
             "w\u0303": 2,
-            "x": 98,
+            "x": 118,
             "y": 109,
             "z": 104,
             "\u00e0": 41,

@@ -23,7 +23,6 @@ d	d	232	U+0064
 p	p	193	U+0070
 h	h	174	U+0068
 ɡ	g	170	U+0261
-_	_	163	U+005f
 w	w	163	U+0077
 ɔ	ɔ	159	U+0254
 ɨ	ɨ	154	U+0268
@@ -159,8 +158,9 @@ dʲ	dʲ	2	U+0064 U+02b2
 [	NULL	
 ]	NULL	
 /	NULL	
-<	NULL
->	NULL
+^_	NULL
+_$	NULL
+_	+
 †	NULL
 ch	tʃ
 ɛ̃̂	ɛ̃
@@ -202,16 +202,11 @@ iˑʰ	!iʰ/i̤
 ὄ	!ὄ/o
 ll	ʝ
 éː	éː
-√	NULL
 -Ø	NULL
 -t-$	+ t
 õː	õː
 ìː	ìː
 èː	èː
-‘creek’	NULL
-√	NULL
-√	NULL
-\s	NULL
 óː	óː
 ĩ́ː	ĩ́ː
 à̯	!à̯/à
@@ -251,3 +246,6 @@ ĩ̀ː	!ìː/iː
 ɔ̄́	ɔ
 ɔ̃̄	ɔ̃
 ə́	!ə́/ə
+squa	+ s x a
+gue 	gʷ e
+_-$	NULL

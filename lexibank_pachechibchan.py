@@ -18,7 +18,12 @@ class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "pachechibchan"
     language_class = CustomLanguage
-    form_spec = FormSpec(separators="~;,/", missing_data=["∅", "⊘"], first_form_only=True)
+    form_spec = FormSpec(
+        separators="~;,/",
+        missing_data=["∅", "⊘"],
+        first_form_only=True,
+        replacements=[(" ", "_"), ("√", ""), ("<", ""), (">", ""), ("‘creek’", "")]
+        )
 
     def cmd_makecldf(self, args):
         # add bib

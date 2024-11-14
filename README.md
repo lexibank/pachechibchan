@@ -29,9 +29,9 @@ Available online at https://doi.org/10.1086/722240
 - **Sources:** 16
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 17,783
+- **Tokens:** 17,771
 - **Segments:** 149 (0 BIPA errors, 0 CLTS sound class errors, 149 CLTS modified)
-- **Inventory size (avg):** 34.36
+- **Inventory size (avg):** 34.32
 
 # Contributors
 
