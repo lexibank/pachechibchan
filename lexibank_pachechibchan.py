@@ -4,7 +4,6 @@ import attr
 import openpyxl
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
-from pylexibank import progressbar as pb
 from pylexibank import Language
 from pylexibank import FormSpec
 
