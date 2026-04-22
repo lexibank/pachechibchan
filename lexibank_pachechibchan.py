@@ -7,6 +7,7 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language
 from pylexibank import FormSpec
+from pyconcepticon import Concepticon
 
 
 @attr.s
@@ -29,17 +30,44 @@ class Dataset(BaseDataset):
         # add bib
         args.writer.add_sources()
         args.log.info("added sources")
+        
+
+        # get concepticon concepts
+        swad = {}
+        for clist in self.conceptlists:
+            for concept in clist.concepts.values():
+                if concept.english not in swad:
+                    swad[concept.english] = (
+                            concept.concepticon_id,
+                            concept.concepticon_gloss)
+        swad["to lie (as in a bed)"] = swad["to lie"]
+        swad["arrow"] = swad["narrow"]
+        swad["correct"] = swad["right/correct"]
+        swad["tongue (organ)"] = swad["tongue"]
+        swad["to smell"] = swad["smell"]
+        swad["to know"] = swad["know"]
 
         # add concept
         concepts = {}
         for concept in self.concepts:
+            if concept["ENGLISH"] in swad:
+                cid, cgl = swad[concept["ENGLISH"]]
+            else:
+                args.log.info(f'missing: {concept}')
+                cid, clg = '', ''
             idx = concept["NUMBER"] + "_" + slug(concept["ENGLISH"])
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept["ENGLISH"]
+                    Name=concept["ENGLISH"],
+                    Concepticon_ID=cid,
+                    Concepticon_Gloss=cgl
                     )
             concepts[concept["ENGLISH"]] = idx
+        # add missing concepts
+
         args.log.info("added concepts")
+
+
 
         # add language
         languages = {}
@@ -65,7 +93,6 @@ class Dataset(BaseDataset):
             for col_idx, cell in enumerate(row[1:], start=1):
                 doculect = doculects[col_idx - 1]
                 value = cell.value
-                print(f"Concept: {concept}, Doculect: {doculect}, Value: {value}")
 
                 if value:
                     args.writer.add_forms_from_value(

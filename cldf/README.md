@@ -10,11 +10,12 @@ property | value
  --- | ---
 [dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Pache, Matthias (2023): Pech and the basic internal classification of Chibchan. International Journal of American Linguistics 89 (1): 81-103.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
+[dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Comrie-1977-207</li><li>http://concepticon.clld.org/contributions/Swadesh-1952-200</li><li>http://concepticon.clld.org/contributions/Swadesh-1955-100</li><li>http://concepticon.clld.org/contributions/Blust-2008-210</li><li>http://concepticon.clld.org/contributions/Serva-2020-207</li></ol>
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.1086/722240
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/calc-project/pachechibchan
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/calc-project/pachechibchan/tree/9835bfe">calc-project/pachechibchan 9835bfe</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.2.0">Concepticon v3.2.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.7</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:lexibank/pachechibchan
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:lexibank/pachechibchan/tree/d97d914">git@github.com:lexibank/pachechibchan d97d914</a></li><li><a href="git@github.com:glottolog/glottolog/tree/v5.2.1">Glottolog v5.2.1</a></li><li><a href="git@github.com:concepticon/concepticon-data/tree/v3.4.0">Concepticon v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.14.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | pachechibchan
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 

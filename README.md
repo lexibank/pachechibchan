@@ -14,17 +14,24 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://doi.org/10.1086/722240
 
+
+Conceptlists in Concepticon:
+- [Comrie-1977-207](https://concepticon.clld.org/contributions/Comrie-1977-207)
+- [Swadesh-1952-200](https://concepticon.clld.org/contributions/Swadesh-1952-200)
+- [Swadesh-1955-100](https://concepticon.clld.org/contributions/Swadesh-1955-100)
+- [Blust-2008-210](https://concepticon.clld.org/contributions/Blust-2008-210)
+- [Serva-2020-207](https://concepticon.clld.org/contributions/Serva-2020-207)
 ## Statistics
 
 
 ![Glottolog: 95%](https://img.shields.io/badge/Glottolog-95%25-green.svg "Glottolog: 95%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 22 (linked to 20 different Glottocodes)
-- **Concepts:** 207 (linked to 0 different Concepticon concept sets)
+- **Concepts:** 207 (linked to 207 different Concepticon concept sets)
 - **Lexemes:** 3,437
 - **Sources:** 16
 - **Synonymy:** 1.00
